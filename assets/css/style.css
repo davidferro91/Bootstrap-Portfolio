@@ -7,6 +7,7 @@ html {
 
 body {
     margin-bottom: 40px; /* Margin bottom by footer height */
+    background-image: url("oriental.png");
 }
 
 .footer {
@@ -18,6 +19,10 @@ body {
 }
 
 /* Here ends the part from the bootstrap website*/
+
+nav {
+    background-color: white;
+}
 
 .titleBox {
     background: #4aaaa5;
